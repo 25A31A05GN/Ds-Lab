@@ -1,4 +1,4 @@
-To write a c++ code to simulate arithmetic calculation using switch case
+//To write a c++ code to simulate arithmetic calculation using switch case
 #include<iostream>
 using namespace std;
 int main()
