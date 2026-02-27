@@ -1,3 +1,4 @@
+//To write a c++ code to read and display one dimensional array elements using dynamic memory allocation 
 #include<iostream>
 Using namespace std; int main( )
 {
