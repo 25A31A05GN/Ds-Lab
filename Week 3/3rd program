@@ -1,3 +1,4 @@
+//To write a c++ code to implement binary search 
 #include<iostream>
 using namespsce std;
 int main()
