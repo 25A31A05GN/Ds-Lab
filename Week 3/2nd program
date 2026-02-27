@@ -1,3 +1,4 @@
+//To write a c++ code to calculate no.of occurrences of search key in linear search procedure 
 #include<iostream>
 using namesapce std;
 int main()
