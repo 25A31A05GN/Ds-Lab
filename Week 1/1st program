@@ -1,4 +1,4 @@
-To write a c++ code to print student name,roll no., branch and section 
+//To write a c++ code to print student name,roll no., branch and section 
 #include<iostream>
 using namespace std;
 int main()
