@@ -1,3 +1,4 @@
+//To write a c++ code to read and display one dimensional array elements 
 #include<iostream>
 using namespace std;
 int main()
