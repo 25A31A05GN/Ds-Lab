@@ -1,4 +1,4 @@
-//
+//To write a c++ code to perform addition of n elements using dynamic memory allocation 
 #include <iostream>
 using namespace std;
 class Addition
