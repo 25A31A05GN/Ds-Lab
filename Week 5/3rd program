@@ -1,4 +1,4 @@
-
+//To write a c++ code to create single linked list nodes based on user input using dynamic memory allocation
 #include<iostream>
 using namespace std;
 class Node
